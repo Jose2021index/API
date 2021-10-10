@@ -1,0 +1,14 @@
+[
+    {
+        "ID":"1",
+        "NOMBRE": "Transformers",
+        "GENERO": "Accion",
+        "AÑO": "2018"
+    },
+    {
+        "ID":"2",
+        "NOMBRE": "Transformers 2",
+        "GENERO": "Accion",
+        "AÑO": "2021"
+    }
+]
